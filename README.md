@@ -12,6 +12,7 @@ TopArtists holds the source code.
 Driver is operational.
 output is raw data.
 input is cleaned data.
+README file.
 
 The file sample I have decided to use is a 201 line .csv in 5 columes. I picked this version over a custom made shorter file because it holds a realistic set of uncleaned data. The original 200 line 
 file came without duplicates. I added one to test the code.  
